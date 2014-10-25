@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+    <!-- Main menu -->
+    <string id="30001">Featured</string>
+    <string id="30002">Programs</string>
+    <string id="30003">Most viewed</string>
+    <string id="30004">Mots voted</string>
+    <string id="30005">Search...</string>
+    <!-- Nav items -->
+    <string id="30020">next</string>
+    <!-- Error dialog -->
+    <string id="30040">Connection Error</string>
+    <string id="30041">Could not connect to tv3.cat.</string>
+    <string id="30042">Please try again.</string>
+    <string id="30043">Operation Failed</string>
+    <string id="30044">Invalid resource specified.</string>
+</strings>

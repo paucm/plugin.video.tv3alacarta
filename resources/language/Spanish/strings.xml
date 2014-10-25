@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+    <!-- Main menu -->
+    <string id="30001">Destacados</string>
+    <string id="30002">Programas</string>
+    <string id="30003">Los más vistos</string>
+    <string id="30004">Los más votados</string>
+    <string id="30005">Buscar...</string>
+    <!-- Nav itemss -->
+    <string id="30020">siguiente</string>
+    <!-- Error dialog -->
+    <string id="30040">Error de conexión</string>
+    <string id="30041">No se puede conectar con tv3.cat.</string>
+    <string id="30042">Por favor, intentalo de nuevo.</string>
+    <string id="30043">Error en la operación</string>
+    <string id="30044">Recurso no válido.</string>
+</strings>
